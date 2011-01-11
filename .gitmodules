@@ -1,0 +1,3 @@
+[submodule "lib/monotorrent"]
+	path = lib/monotorrent
+	url = git://github.com/mono/monotorrent.git
